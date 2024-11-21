@@ -1,0 +1,4 @@
+name = "PMFRGSolve"
+uuid = "8afc4f61-39e9-4661-bf82-e6695b8d2018"
+repo = "git@github.com:mmesiti/PMFRG.jl.git"
+subdir = "PMFRGSolve.jl"
