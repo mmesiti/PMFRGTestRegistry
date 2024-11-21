@@ -1,0 +1,6 @@
+name = "PMFRGTest"
+uuid = "cff97254-223f-4c84-9d94-0661ee15814f"
+repo = "git@github.com:mmesiti/PMFRGTestRegistry.git"
+description = "Test registry for PMFRG and subpackages"
+
+[packages]
