@@ -6,4 +6,5 @@ description = "Test registry for PMFRG and subpackages"
 [packages]
 053fb7f8-31b7-4f68-aef8-4452b415dd8c = { name = "SpinFRGLattices", path = "S/SpinFRGLattices" }
 307b9980-580b-4ffb-acf7-52430be9d54f = { name = "PMFRGCore", path = "P/PMFRGCore" }
+37d616f8-0bcb-4e18-9a76-f5d18f52650d = { name = "PMFRG", path = "P/PMFRG" }
 8afc4f61-39e9-4661-bf82-e6695b8d2018 = { name = "PMFRGSolve", path = "P/PMFRGSolve" }
