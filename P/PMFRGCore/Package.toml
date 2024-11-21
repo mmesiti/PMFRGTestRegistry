@@ -1,0 +1,4 @@
+name = "PMFRGCore"
+uuid = "307b9980-580b-4ffb-acf7-52430be9d54f"
+repo = "git@github.com:mmesiti/PMFRG.jl.git"
+subdir = "PMFRGCore.jl"
